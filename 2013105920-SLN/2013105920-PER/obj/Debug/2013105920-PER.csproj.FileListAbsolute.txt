@@ -1,0 +1,21 @@
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\bin\Debug\2013105920-PER.dll.config
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\bin\Debug\2013105920-PER.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\bin\Debug\2013105920-PER.pdb
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\bin\Debug\2013105920-ENT.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\bin\Debug\EntityFramework.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\bin\Debug\2013105920-ENT.pdb
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\bin\Debug\EntityFramework.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\obj\Debug\2013105920-PER.csprojResolveAssemblyReference.cache
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\obj\Debug\2013105920-PER.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\obj\Debug\2013105920-PER.pdb
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\obj\Debug\_2013105920_PER.Migrations.InitialModel.resources
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\obj\Debug\2013105920-PER.csproj.GenerateResource.Cache
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-PER\obj\Debug\_2013105920_PER.Migrations.SecondModel.resources
+F:\MIL ERRORES\2013105920-SLN\2013105920-PER\obj\Debug\2013105920-PER.csprojResolveAssemblyReference.cache
+F:\MIL ERRORES\2013105920-SLN\2013105920-PER\obj\Debug\_2013105920_PER.Migrations.InitialModel.resources
+F:\MIL ERRORES\2013105920-SLN\2013105920-PER\obj\Debug\_2013105920_PER.Migrations.SecondModel.resources
+F:\MIL ERRORES\2013105920-SLN\2013105920-PER\obj\Debug\2013105920-PER.csproj.GenerateResource.Cache
+F:\MIL ERRORES\2013105920-SLN\2013105920-PER\obj\Debug\2013105920-PER.dll
+F:\MIL ERRORES\2013105920-SLN\2013105920-PER\obj\Debug\2013105920-PER.pdb
